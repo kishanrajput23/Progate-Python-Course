@@ -2,7 +2,7 @@
 
 # Let's get started with python!!
 
-**1.** [Python Environment Setup (Windows)](https://progate.com/docs/python-env-win)\
+**1.** [Python Environment Setup (Windows)](https://progate.com/docs/python-env-win)
 
 **2.** In [Pyhton_Study_1](https://github.com/kishanrajput23/Progate-Python-Course/tree/main/pyhton_study_1) lesson we'll learn the basics of the language like-\
 --> Getting started with Python.\
